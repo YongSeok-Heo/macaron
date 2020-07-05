@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://yongseok-macaron.netlify.app/sitemap.xml
